@@ -1,0 +1,8 @@
+# Con una imagen de java
+FROM openjdk:17-jdk
+# Copia el jar de la aplicación
+COPY build/libs/*.jar app.jar
+# Expone el puerto 8080, pero en esta imagen no es necesario
+# EXPOSE 8080
+# Ejecuta el jar
+ENTRYPOINT ["java","-jar","/app.jar"]

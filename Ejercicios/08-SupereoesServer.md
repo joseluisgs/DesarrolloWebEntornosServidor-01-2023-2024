@@ -1,0 +1,3 @@
+Vamos a tener en nuestro servidor un repositorio de héroes como en el de ejercicios anteriores.
+
+El cliente se conectara por el puerto 3000 al servidor y mandará el nombre de la identidad secreta, por ejemplo spiderman. El servidor buscará en el repositorio el héroe con esa identidad secreta y devolverá el nombre del héroe, por ejemplo Peter Parker y la ciudad donde realiza su actividad, por ejemplo Nueva York.

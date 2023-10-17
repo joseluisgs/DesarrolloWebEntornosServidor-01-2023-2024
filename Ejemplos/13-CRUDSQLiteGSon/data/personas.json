@@ -1,0 +1,16 @@
+[
+  {
+    "id": 123,
+    "uuid": "86e7d7eb-8f0c-4e23-89e0-5190d80ba1a5",
+    "nombre": "Pepito Update",
+    "edad": 31,
+    "createdAt": "2023-09-21"
+  },
+  {
+    "id": 125,
+    "uuid": "739c34bb-8442-457a-88c9-0e22e3ade78a",
+    "nombre": "Anita",
+    "edad": 25,
+    "createdAt": "2023-09-21"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "name": "prueba-npm",
+  "version": "1.0.0",
+  "description": "Esto es una prueba de NPM",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "comenzar": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "2DAW",
+  "license": "ISC"
+}
